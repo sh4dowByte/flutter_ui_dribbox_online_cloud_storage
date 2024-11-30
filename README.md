@@ -21,9 +21,9 @@ The design of this application is based on the provided Figma file. The slicing 
 
 - **Responsive Design**: Supports various screen sizes with responsive UI elements.
 - **Dark & Light Theme**: Provides both dark and light modes for a more comfortable user experience.
+- 
 - **Seamless Navigation**: Implements navigation using Flutter Navigator.
 - **Reusable Components**: Modular components for easier development and maintenance.
-- **Draggable and Animate Card**: This feature allows users to interact with cards by dragging and animating them within the UI. It enhances the user experience by adding a dynamic and interactive element, allowing smooth transitions and visual feedback when items are moved or rearranged in the interface.
 
 ## 🛠️ Technologies
 
@@ -33,7 +33,7 @@ This project is built using the following technologies:
 - **[Dart](https://dart.dev/)**: The primary programming language for Flutter.
 - **[Google Fonts](https://fonts.google.com/)**: For custom font integration.
 - **[Figma](https://www.figma.com/)**: Used as the application's design reference.
-
+- **[Draggable and Animate Card](https://dart.dev/)**: This feature allows users to interact with cards by dragging and animating them within the UI. It enhances the user experience by adding a dynamic and interactive element, allowing smooth transitions and visual feedback when items are moved or rearranged in the interface.
 
 ## 📂 Folder Structure
 
@@ -44,7 +44,6 @@ This project is built using the following technologies:
 │   ├── config/          # Application configuration (theme, routes, etc.)  
 │   ├── screens/         # Main application pages  
 │   ├── widgets/         # Reusable UI components  
-│   ├── utils/           # Helper for app  
 │   ├── main.dart        # Main application file  
 └── pubspec.yaml         # Flutter project configuration  
 ```
