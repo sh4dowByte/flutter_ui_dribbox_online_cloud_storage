@@ -13,6 +13,10 @@ Flutter Dribbox Online Cloud Storage UI is a modern and responsive mobile applic
 
 This app highlights modern design elements such as iconic buttons, smooth animation transitions, and efficient file management. By leveraging Flutter, the app ensures fast and responsive performance across various devices, making it an ideal choice for developers aiming to build aesthetically pleasing and high-performing cloud storage applications.
 
+<a href="https://github.com/sh4dowByte/flutter_ui_dribbox_online_cloud_storage/releases/download/v1.0.0%2B1-4/app-release.apk">
+    <img src="https://playerzon.com/asset/download.png" width="200" data-canonical-src="https://playerzon.com/asset/download.png" style="max-width: 100%;">
+</a>
+
 ## 🎨 Design
 
 The design of this application is based on the provided Figma file. The slicing process was carried out meticulously to ensure the application accurately represents the design.
@@ -34,7 +38,6 @@ This project is built using the following technologies:
 - **[Google Fonts](https://fonts.google.com/)**: For custom font integration.
 - **[Figma](https://www.figma.com/)**: Used as the application's design reference.
 
-
 ## 📂 Folder Structure
 
 ```plaintext
@@ -44,7 +47,6 @@ This project is built using the following technologies:
 │   ├── config/          # Application configuration (theme, routes, etc.)  
 │   ├── screens/         # Main application pages  
 │   ├── widgets/         # Reusable UI components  
-│   ├── utils/           # Helper for app  
 │   ├── main.dart        # Main application file  
 └── pubspec.yaml         # Flutter project configuration  
 ```
@@ -70,6 +72,6 @@ For more details, refer to the [full license text](LICENSE).
 
 ## Disclaimer
 
-The design of this application is based on a free Figma template available in the Figma Community. All rights to the original design are retained by the respective creator. This implementation is intended solely for educational and non-commercial purposes.
+The design of this application is based on a free Figma template available in the Figma Community, originally created by **[Hero Ninja]**. All rights to the original design are retained by the respective creator. This implementation is intended solely for educational and non-commercial purposes.
 
-This project utilizes a design sourced from the Figma Community. Licensing terms of the original design may apply. Please review the original Figma design [here](https://www.figma.com/community/file/892116687909024921) to ensure compliance with its terms before utilizing this project in any capacity.
+This project utilizes a design sourced from the Figma Community, created by **[Hero Ninja]**. Licensing terms of the original design may apply. Please review the original Figma design [here](https://www.figma.com/community/file/892116687909024921) to ensure compliance with its terms before utilizing this project in any capacity.
